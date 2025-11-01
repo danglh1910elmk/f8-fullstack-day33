@@ -1,0 +1,9 @@
+.current {
+    color: red;
+    background: orange;
+}
+
+.row {
+    display: flex;
+    gap: 20px;
+}
